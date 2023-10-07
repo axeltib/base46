@@ -59,7 +59,7 @@ M.polish_hl = {
   ["@variable.builtin"] = { fg = M.base_30.red },
 }
 
-M.type = "dark"
+M.type = "light"
 
 M = require("base46").override_theme(M, "catppuccin")
 
